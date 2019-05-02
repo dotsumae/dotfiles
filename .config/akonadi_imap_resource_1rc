@@ -1,0 +1,11 @@
+[cache]
+TrashCollection=-96
+TrashCollectionMigrated=true
+
+[idle]
+IdleRidPath=/INBOX,imap://acerftu@gmail.com@imap.gmail.com/
+
+[network]
+Authentication=9
+ImapServer=imap.gmail.com
+UserName=acerftu@gmail.com

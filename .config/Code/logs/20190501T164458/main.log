@@ -1,0 +1,7 @@
+[2019-05-01 16:44:58.817] [main] [info] update#setState idle
+[2019-05-01 16:44:59.437] [main] [info] [storage] migrating global storage from localStorage into SQLite
+[2019-05-01 16:44:59.438] [main] [info] [storage] migrated global storage
+[2019-05-01 16:45:13.127] [main] [error] webContents#will-navigate: Prevented webcontent navigation
+[2019-05-01 16:45:28.822] [main] [info] update#setState checking for updates
+[2019-05-01 16:45:28.827] [main] [info] update#setState idle
+[2019-05-01 16:45:56.651] [main] [info] update#setState idle

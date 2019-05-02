@@ -1,0 +1,5 @@
+[Default Applications]
+x-scheme-handler/magnet=userapp-transmission-gtk-YJX60Z.desktop
+
+[Added Associations]
+x-scheme-handler/magnet=userapp-transmission-gtk-YJX60Z.desktop;

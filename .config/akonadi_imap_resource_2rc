@@ -1,0 +1,11 @@
+[cache]
+TrashCollection=9
+TrashCollectionMigrated=true
+
+[idle]
+IdleRidPath=/INBOX,imap://alex.mail.ish@gmail.com@imap.gmail.com/
+
+[network]
+Authentication=9
+ImapServer=imap.gmail.com
+UserName=alex.mail.ish@gmail.com

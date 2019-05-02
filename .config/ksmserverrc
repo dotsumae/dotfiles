@@ -1,0 +1,26 @@
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10b1617474000155681313800000011980004
+clientId2=10b1617474000155672038600000092990042
+clientId3=10b1617474000155681313800000011980007
+count=3
+program1=/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd
+program2=/usr/bin/korgac
+program3=pulseaudio
+restartCommand1=/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd,-session,10b1617474000155681313800000011980004_1556813346_864270
+restartCommand2=/usr/bin/korgac,-session,10b1617474000155672038600000092990042_1556813346_864748
+restartCommand3=
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=alex
+userId2=alex
+userId3=alex
+wasWm1=false
+wasWm2=false
+wasWm3=false

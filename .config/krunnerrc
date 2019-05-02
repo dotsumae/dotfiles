@@ -1,0 +1,5 @@
+[General]
+history=conky,compton
+
+[PlasmaRunnerManager]
+LaunchCounts=3 shell_conky,1 services_compton.desktop

@@ -1,0 +1,29 @@
+[General]
+default-transport=202552245
+
+[Transport 1106401277]
+auth=true
+encryption=SSL
+host=smtp.gmail.com
+id=1106401277
+name=Google Mail (acerftu)
+port=465
+user=acerftu@gmail.com
+
+[Transport 202552245]
+auth=true
+encryption=SSL
+host=smtp.gmail.com
+id=202552245
+name=Google Mail (alex.mail.ish)
+port=465
+user=alex.mail.ish@gmail.com
+
+[Transport 935860070]
+auth=true
+encryption=TLS
+host=smtp.etud.insa-toulouse.fr
+id=935860070
+name=smtp.etud.insa-toulouse.fr
+storepass=true
+user=asalazar@etud.insa-toulouse.fr

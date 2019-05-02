@@ -1,0 +1,9 @@
+[Defaults]
+Profile=Default
+
+[PROFILE_Default]
+EmailAddress=asalazar@etud.insa-toulouse.fr
+FullName=alex
+Organization=
+ReplyAddr=
+ServerType=

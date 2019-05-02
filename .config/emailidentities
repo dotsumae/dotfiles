@@ -1,0 +1,28 @@
+[General]
+Default Identity=1933559904
+
+[Identity #0]
+Default Domain=Latte
+Disable Fcc=false
+Email Address=asalazar@etud.insa-toulouse.fr
+Identity=Asalazar
+Image Location=
+Inline Signature=
+Name=alex
+PGP Encryption Key=05D6ED9EC2BCCD3663E17C02239CD1954356B7F0
+PGP Signing Key=05D6ED9EC2BCCD3663E17C02239CD1954356B7F0
+Pgp Auto Encrypt=false
+Pgp Auto Sign=false
+Signature Enabled=false
+Transport=-1
+uoid=1933559904
+
+[Identity #1]
+Default Domain=Latte
+Disable Fcc=false
+Identity=alex
+Image Location=
+Inline Signature=
+Name=alex
+Signature Enabled=false
+uoid=586736575

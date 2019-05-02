@@ -1,0 +1,19 @@
+[Desktop Entry]
+DefaultProfile=i3.profile
+
+[Favorite Profiles]
+Favorites=i3.profile
+
+[KonsoleWindow]
+ShowMenuBarByDefault=false
+
+[MainWindow]
+Height 800=755
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABQAAAAL0AAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1280=625
+
+[Notification Messages]
+CloseAllTabs=true
+ShowPasteHugeTextWarning=false
