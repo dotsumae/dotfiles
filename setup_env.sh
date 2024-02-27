@@ -12,5 +12,5 @@ mkdir -p Executables/bin/
 echo 'PATH="/home/alex/Executables/bin:$PATH"' >> .zshrc
 echo "Changing shell to zsh..."
 sudo chsh -s /bin/zsh
-#echo "zsh" >> .bashrc
+echo "zsh" >> .bashrc
 echo "All OK!"
