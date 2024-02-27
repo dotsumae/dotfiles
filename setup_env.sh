@@ -8,8 +8,9 @@ echo "# Load autojump" >> .zshrc
 echo ". /usr/share/autojump/autojump.sh" >> .zshrc
 echo "source .alias" >> .zshrc
 echo "alias rm='trash'" >> .alias
-echo 'PATH="/home/alex/Exexutables/bin:$PATH"' >> .zshrc
+mkdir -p Executables/bin/
+echo 'PATH="/home/alex/Executables/bin:$PATH"' >> .zshrc
 echo "Changing shell to zsh..."
 sudo chsh -s /bin/zsh
-echo "zsh" >> .bashrc
+#echo "zsh" >> .bashrc
 echo "All OK!"
