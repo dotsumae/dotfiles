@@ -8,6 +8,7 @@ echo "# Load autojump" >> .zshrc
 echo ". /usr/share/autojump/autojump.sh" >> .zshrc
 echo "source .alias" >> .zshrc
 echo "alias rm='trash'" >> .alias
+echo "alias update-all='sudo nala upgrade --download-only -y ; sudo apt update && sudo apt upgrade -y'
 mkdir -p Executables/bin/
 echo 'PATH="/home/alex/Executables/bin:$PATH"' >> .zshrc
 echo "Changing shell to zsh..."
