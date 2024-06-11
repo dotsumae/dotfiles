@@ -2,7 +2,7 @@
 
 echo "Installing tools..."
 sudo apt update && sudo apt upgrade -y
-sudo apt install trash-cli vim sl zsh tldr autojump wget nala -y
+sudo apt install trash-cli vim sl zsh tldr autojump wget nala fzf -y
 echo "Updating user config..."
 cd ~
 wget -O .zshrc https://git.grml.org/f/grml-etc-core/etc/zsh/zshrc
@@ -12,8 +12,8 @@ echo "source ~/.alias" >> .zshrc
 echo "alias rm='trash'" >> .alias
 echo "alias update-all='sudo nala upgrade --download-only -y ; sudo apt update && sudo apt upgrade -y'" >> .alias
 mkdir -p ~/Executables/bin/
-echo 'PATH="/home/alex/Executables/bin:$PATH"' >> .zshrc
+echo 'PATH="$USER/Executables/bin:$PATH"' >> .zshrc
 echo "Changing shell to zsh..."
-sudo chsh -s /bin/zsh
+chsh -s /bin/zsh
 #echo "zsh" >> .bashrc
 echo "All OK!"
